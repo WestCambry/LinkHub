@@ -1,0 +1,19 @@
+body{
+	background-color: #0A0A0A;
+}
+
+#block{
+	background: #0F0F0F;
+	max-height: 200px;
+	max-width: 200px;
+}
+
+.main-site{
+	font-size: 25px;
+	color: white;
+	text-decoration: 2;
+}
+
+.qbit-img{
+	max-height: 25px;
+}
